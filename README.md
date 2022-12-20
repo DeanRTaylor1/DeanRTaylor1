@@ -1,22 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Dean a freelance web developer, I specialize in: 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://camo.githubusercontent.com/999ac61673796a0151eef10879275094b94e4cdf8633a61c01819c6504dcb6d9/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" alt="Javascript-Logo" width="100"/></a>
+
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" alt="Typescript-Logo" width="100"/></a>
 
 
-[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![typescript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg)](https://www.typescriptlang.org/)
-[![NodeJS](https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
-[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
-[![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
-[![Jest](https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png)](https://facebook.github.io/jest/)  
-[![Travis](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_travis-ci.png?raw=true)](https://travis-ci.org/)
-[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
-[![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
+[![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)](https://nodejs.org/)
+[![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)](http://expressjs.com///)
+[![postgresSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg)](https://www.postgresql.org/)
+[![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg)](https://facebook.github.io/jest/)  
+[![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)](https://facebook.github.io/react/)
 [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
-[![Prisma](https://camo.githubusercontent.com/c7f49c483a3c5a145ff55c7331520a65e12abff2/68747470733a2f2f692e696d6775722e636f6d2f774434725674342e706e67)](https://www.prisma.io/)
+[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://www.https://kubernetes.io/)
 [![Next](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true)](https://zeit.co/)
-[![MongoDB](https://github.com/FransLopez/logo-images/blob/master/logos/mongodb.png)](https://www.mongodb.com/)
-
-
-
+[![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)](https://www.mongodb.com/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
